@@ -1,3 +1,5 @@
 body{
     background: linear-gradient(-21deg, #202020 50%, #000000 50%);
+    background-attachment: fixed;
+    background-repeat: no-repeat;
  }
