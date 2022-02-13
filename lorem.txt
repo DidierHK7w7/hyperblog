@@ -2,6 +2,12 @@
 ipsum quia dolor sit amet, consectetur,
 adipisci velit..." No se que decia.
 
+<<<<<<< HEAD
 Master 1
 
 Master 2
+=======
+Experimento 1
+
+Master 1
+>>>>>>> 5580ef8 (Exp 1)
