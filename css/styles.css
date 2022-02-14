@@ -5,7 +5,7 @@ body{
     flex-direction: column;
  }
  .card-panel{
-  background: linear-gradient(110deg, #202020 50%, #202020a1 50%, #202020a1 52%, #202020a1 52%, #20202070 0);
+  background: linear-gradient(110deg, #202020 50%, #202020ab 50%, #202020ab 52%, #202020ab 52%, #20202088 0);
 }
   section {
     flex: 1 0 auto;
